@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vishal Madhav 👋</h1>
+<h1 align="center">Vishal Madhav S</h1>
 
 <h3 align="center">A passionate developer on a mission to revolutionize the tech industry, one project at a time</h3>
 
@@ -9,23 +9,22 @@
 ---
 
 ### 🧑‍💻 About Me
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXVxeTJ6ZGR1OWU2eTh2dXBnd2Jud3ZlcHZvdXg0cm50OXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-I'm a CS student building a strong foundation in C++ and Python, with my sights set on AI/ML — not just the theory, but actually shipping AI-powered products and tools people can use. I'm early in that journey and learning in the open.
+I'm a CS student building a strong foundation in **C++ and Python**, with my sights set on **AI/ML** — not just the theory, but actually shipping AI-powered products and tools people can use. I'm early in that journey and learning in the open.
 
-🎯 Goal: Build AI-powered products/tools that solve real problems
-🌱 Currently strengthening: C++, Python, and the ML fundamentals that sit under the tools I want to build
-🧪 Right now: working on a few small AI/ML projects — nothing major yet, but each one's a step toward something bigger
-🤝 Open to: collaborating with other builders, especially on anything AI/ML or open-source
-💬 Ask me about: C++, Python, or what I'm currently learning in AI/ML
+- 🎯 **Goal:** Build AI-powered products/tools that solve real problems
+- 🌱 **Currently strengthening:** C++, Python, and the ML fundamentals that sit under the tools I want to build
+- 🧪 **Right now:** working on a few small AI/ML projects — nothing major yet, but each one's a step toward something bigger
+- 🤝 **Open to:** collaborating with other builders, especially on anything AI/ML or open-source
+- 💬 **Ask me about:** C++, Python, or what I'm currently learning in AI/ML
 
 ---
 
 ### 🛠️ Tech Stack
-
-**Core**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github" />
