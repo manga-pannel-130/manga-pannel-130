@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Vishal Madhav 👋</h1>
 
-<h3 align="center">A passionate developer on a mission to revolutionize the tech industry, one project at a time 🚀</h3>
+<h3 align="center">A passionate developer on a mission to revolutionize the tech industry, one project at a time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+C%2B%2B+%26+Python;Diving+into+AI%2FML;Always+learning%2C+always+shipping;Let's+build+the+future+together!&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building;Always+learning%2C+!&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
 </p>
 
 <p align="center">
-  <img src="https://your-gif-link-here.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXVxeTJ6ZGR1OWU2eTh2dXBnd2Jud3ZlcHZvdXg0cm50OXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
