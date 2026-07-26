@@ -3,20 +3,23 @@
 <h3 align="center">A passionate developer on a mission to revolutionize the tech industry, one project at a time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building;Always+learning%2C+!&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXVxeTJ6ZGR1OWU2eTh2dXBnd2Jud3ZlcHZvdXg0cm50OXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Projects;Always+learning!&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXVxeTJ6ZGR1OWU2eTh2dXBnd2Jud3ZlcHZvdXg0cm50OXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
-- 🌱 Currently deepening my skills in **C++ and Python**, and exploring **AI/ML**
-- 💬 Ask me about **C++ / Python / AI-ML**
-- ⚡ Fun fact: I'm on a mission to build things that actually move the needle in tech
+I'm a CS student building a strong foundation in C++ and Python, with my sights set on AI/ML — not just the theory, but actually shipping AI-powered products and tools people can use. I'm early in that journey and learning in the open.
+
+🎯 Goal: Build AI-powered products/tools that solve real problems
+🌱 Currently strengthening: C++, Python, and the ML fundamentals that sit under the tools I want to build
+🧪 Right now: working on a few small AI/ML projects — nothing major yet, but each one's a step toward something bigger
+🤝 Open to: collaborating with other builders, especially on anything AI/ML or open-source
+💬 Ask me about: C++, Python, or what I'm currently learning in AI/ML
 
 ---
 
@@ -25,13 +28,7 @@
 **Core**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
-</p>
-
-**Familiar with / leveling up**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github" />
 </p>
 
 ---
