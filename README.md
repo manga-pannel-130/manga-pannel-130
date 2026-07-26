@@ -16,7 +16,7 @@ I'm a CS student building a strong foundation in **C++ and Python**, with my sig
 - 🧪 **Right now:** working on a few small AI/ML projects — nothing major yet, but each one's a step toward something bigger
 - 🤝 **Open to:** collaborating with other builders, especially on anything AI/ML or open-source
 - 💬 **Ask me about:** C++, Python, or what I'm currently learning in AI/ML
-
+<br>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXVxeTJ6ZGR1OWU2eTh2dXBnd2Jud3ZlcHZvdXg0cm50OXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
@@ -38,9 +38,6 @@ I'm a CS student building a strong foundation in **C++ and Python**, with my sig
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manga-pannel-130&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manga-pannel-130&theme=tokyonight&hide_border=true" />
-</p>
 
 #
 
@@ -48,9 +45,9 @@ I'm a CS student building a strong foundation in **C++ and Python**, with my sig
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vishal-madhav-34a22028b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" style="margin-right: 1000px;" />
   </a>
-  
+
   <a href="mailto:thecsmajor007@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" />
   </a>
