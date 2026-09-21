@@ -1,46 +1,170 @@
-<h1>Vishal Madhav S</h1>
+<h1 align="center">Vishal Madhav S</h1>
+
+<h3 align="center">AI Engineer • Building AI Systems & Products</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Projects;Always+learning!&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+Systems;Creating+AI+Products;Exploring+Generative+AI;Engineering+Useful+Software&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
 </p>
 
-<h3>A passionate developer that wants to create useful AI Products that help revolutionize the Tech Industry</h3>
-
-#
-
-### 🧑‍💻 About Me
-
-I'm a CS student building a strong foundation in **C++ and Python**, with my sights set on **AI/ML** — not just the theory, but actually shipping AI-powered products and tools people can use. I'm early in that journey and learning in the open.
-
-- 🎯 **Goal:** Build AI-powered products/tools that solve real problems
-- 🌱 **Currently strengthening:** C++, Python, and the ML fundamentals that sit under the tools I want to build
-- 🧪 **Right now:** working on a few small AI/ML projects — nothing major yet, but each one's a step toward something bigger
-- 🤝 **Open to:** collaborating with other builders, especially on anything AI/ML or open-source
-- 💬 **Ask me about:** C++, Python, or what I'm currently learning in AI/ML
-<br>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXVxeTJ6ZGR1OWU2eTh2dXBnd2Jud3ZlcHZvdXg0cm50OXdmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <a href="https://vishal-madhav-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-The%20Build%20Archive-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishal-madhav-34a22028/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-<br>
 
-#
+---
 
-### 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+I'm a Computer Science student focused on **AI engineering and building AI-powered products**.
+
+My interests include **Generative AI, LLM applications, RAG, embeddings, agentic systems, and AI-powered automation**.
+
+---
+
+## 🎯 Focus
+
+* 🤖 AI Engineering
+* 🧠 Generative AI & LLM Applications
+* 🔗 RAG, Embeddings & Vector Search
+* 🧩 Agentic AI & Automation
+* ⚙️ AI-powered Systems
+* 📚 Algorithms & Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
+</p>
+
+### AI & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Builds
+
+### 💸 RecoverAI
+
+AI-assisted payment recovery system that analyses failed transactions, prioritises recovery opportunities, and determines recovery actions.
+
+**React · Express · PostgreSQL · Prisma · Groq**
+
+---
+
+### 🧠 SkillSense
+
+AI-driven skill assessment and career guidance platform that evaluates skills through assessments and connects them with suitable career paths.
+
+**Python · AI/ML**
+
+---
+
+### 🛡️ AI SOC Analyst
+
+AI-assisted security operations project focused on alert prioritisation, investigation workflows, and automated response decision-making.
+
+**Python · FastAPI · SQLite**
+
+---
+
+### ⚙️ HAD
+
+A prototype exploring workflow optimisation across **CAD, FEA, and topology optimisation**.
+
+**Python · AI/ML · CAD · FEA**
+
+---
+
+### 🤖 Hiring Agent
+
+AI recruiter that evaluates candidates against job requirements using resume information and automated candidate analysis.
+
+**Python · Streamlit · Resume Parsing · AI**
+
+<p align="center">
+  <a href="https://vishal-madhav-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Explore%20All%20Builds-The%20Build%20Archive-00F7FF?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="center">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <!-- CodeChef -->
+
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <!-- LeetCode -->
+
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manga-pannel-130&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manga-pannel-130&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manga-pannel-130&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github" />
+  <a href="https://vishal-madhav-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-The%20Build%20Archive-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vishal-madhav-34a22028/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:thecsmajor007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thecsmajor007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-#
-
-### 📊 GitHub Stats
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manga-pannel-130&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=manga-pannel-130&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-#
-
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/vishal-madhav-34a22028b/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" /> </a> &nbsp;&nbsp; <a href="mailto:thecsmajor007@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" /> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manga-pannel-130&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
