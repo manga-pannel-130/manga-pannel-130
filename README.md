@@ -116,22 +116,9 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-  <!-- CodeChef -->
-
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <!-- LeetCode -->
-
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <img src="./assets/coding/codeforces.svg" />
+  <img src="./assets/coding/codechef.svg" />
+  <img src="./assets/coding/leetcode.svg" />
 </p>
 
 ---
