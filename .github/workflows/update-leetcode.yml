@@ -1,0 +1,39 @@
+name: Update LeetCode Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 1 * * *"
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate LeetCode card
+        run: python scripts/update_leetcode.py
+
+      - name: Commit updated LeetCode card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/coding/leetcode.svg
+
+          if git diff --cached --quiet; then
+            echo "No LeetCode changes."
+          else
+            git commit -m "Update LeetCode stats"
+            git push
+          fi
