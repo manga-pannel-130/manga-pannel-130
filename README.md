@@ -70,16 +70,11 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 ### 💸 RecoverAI
 
 AI-assisted payment recovery system that analyses failed transactions, prioritises recovery opportunities, and determines recovery actions.
-
-**React · Express · PostgreSQL · Prisma · Groq**
-
 ---
 
 ### 🧠 SkillSense
 
 AI-driven skill assessment and career guidance platform that evaluates skills through assessments and connects them with suitable career paths.
-
-**Python · AI/ML**
 
 ---
 
@@ -87,23 +82,17 @@ AI-driven skill assessment and career guidance platform that evaluates skills th
 
 AI-assisted security operations project focused on alert prioritisation, investigation workflows, and automated response decision-making.
 
-**Python · FastAPI · SQLite**
-
 ---
 
 ### ⚙️ HAD
 
 A prototype exploring workflow optimisation across **CAD, FEA, and topology optimisation**.
 
-**Python · AI/ML · CAD · FEA**
-
 ---
 
 ### 🤖 Hiring Agent
 
 AI recruiter that evaluates candidates against job requirements using resume information and automated candidate analysis.
-
-**Python · Streamlit · Resume Parsing · AI**
 
 <p align="center">
   <a href="https://vishal-madhav-portfolio.onrender.com">
