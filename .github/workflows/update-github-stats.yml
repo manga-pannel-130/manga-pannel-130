@@ -1,0 +1,47 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=manga-pannel-130&show_icons=true&theme=tokyonight&hide_border=true
+          path: assets/github/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=manga-pannel-130&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/github/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github/stats.svg assets/github/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "No GitHub stats changes."
+          else
+            git commit -m "Update GitHub stats"
+            git push
+          fi
