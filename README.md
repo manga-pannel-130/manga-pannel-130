@@ -1,12 +1,21 @@
-<h1 align="center">Vishal Madhav S</h1>
+<div align="center">
 
-<h3 align="center">AI Engineer • Building AI Systems & Products</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/images/banner-light.svg">
+    <img alt="Vishal Madhav Banner" src="./assets/images/banner-dark.svg" width="100%">
+  </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+Systems;Creating+AI+Products;Exploring+Generative+AI;Engineering+Useful+Software&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
-</p>
+  <h1>Vishal Madhav S</h1>
 
-<p align="center">
+  <h3>AI Engineer • Building AI Systems & Products</h3>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Creating+AI+Products;Exploring+Generative+AI;Engineering+Useful+Software" alt="Typing SVG" />
+  </a>
+
+<br><br>
+
   <a href="https://vishal-madhav-portfolio.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-The%20Build%20Archive-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
@@ -14,7 +23,12 @@
   <a href="https://www.linkedin.com/in/vishal-madhav-34a22028/">
     <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+
+<br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=manga-pannel-130&style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -28,40 +42,41 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 
 ## 🎯 Focus
 
-* 🤖 AI Engineering
-* 🧠 Generative AI & LLM Applications
-* 🔗 RAG, Embeddings & Vector Search
-* 🧩 Agentic AI & Automation
-* ⚙️ AI-powered Systems
-* 📚 Algorithms & Problem Solving
+<div align="center">
+
+|   🤖 AI Engineering   | 🧠 Generative AI |   🔗 Retrieval   |
+| :-------------------: | :--------------: | :--------------: |
+| AI Systems & Products | LLM Applications | RAG & Embeddings |
+
+|   🧩 Agentic Systems  |     ⚙️ Automation     |      📚 Problem Solving      |
+| :-------------------: | :-------------------: | :--------------------------: |
+| AI Agents & Workflows | AI-powered Automation | Algorithms & Data Structures |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
 
 ### AI & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 
 ### Databases & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
+
+</div>
 
 ---
 
@@ -70,25 +85,18 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 ### 💸 RecoverAI
 
 AI-assisted payment recovery system that analyses failed transactions, prioritises recovery opportunities, and determines recovery actions.
----
 
 ### 🧠 SkillSense
 
 AI-driven skill assessment and career guidance platform that evaluates skills through assessments and connects them with suitable career paths.
 
----
-
 ### 🛡️ AI SOC Analyst
 
 AI-assisted security operations project focused on alert prioritisation, investigation workflows, and automated response decision-making.
 
----
-
 ### ⚙️ HAD
 
 A prototype exploring workflow optimisation across **CAD, FEA, and topology optimisation**.
-
----
 
 ### 🤖 Hiring Agent
 
@@ -104,55 +112,82 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 
 ## 🧩 Coding Profiles
 
-<p align="center">
-  <a href="https://codeforces.com/profile/madhav63">
-    <img src="./assets/coding/codeforces.svg" width="720" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.codechef.com/users/gamma_apes_15">
-    <img src="./assets/coding/codechef.svg" width="720" />
-  </a>
-</p>
+### Codeforces
 
-<p align="center">
-  <a href="https://leetcode.com/u/Madhav63/">
-    <img src="./assets/coding/leetcode.svg" width="720" />
-  </a>
-</p>
+<a href="https://codeforces.com/profile/madhav63">
+  <img src="./assets/coding/codeforces.svg" width="720" />
+</a>
+
+<br>
+
+### CodeChef
+
+<a href="https://www.codechef.com/users/gamma_apes_15">
+  <img src="./assets/coding/codechef.svg" width="720" />
+</a>
+
+<br>
+
+### LeetCode
+
+<a href="https://leetcode.com/u/Madhav63/">
+  <img src="./assets/coding/leetcode.svg" width="720" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="./assets/github/stats.svg" height="180" />
-  <img src="./assets/github/top-langs.svg" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/github/streak.svg" height="180" />
-</p>
+<img src="./assets/github/stats.svg" height="180" />
+&nbsp;
+<img src="./assets/github/top-langs.svg" height="180" />
+
+<br><br>
+
+<img src="./assets/github/streak.svg" height="180" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manga-pannel-130/manga-pannel-130/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manga-pannel-130/manga-pannel-130/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/manga-pannel-130/manga-pannel-130/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://vishal-madhav-portfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-The%20Build%20Archive-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vishal-madhav-34a22028/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:thecsmajor007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thecsmajor007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://vishal-madhav-portfolio.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-The%20Build%20Archive-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vishal-madhav-34a22028/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Madhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:thecsmajor007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-thecsmajor007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manga-pannel-130&label=Profile%20Views&color=0e75b6&style=flat" />
+  <sub>Thanks for visiting.</sub>
 </p>
