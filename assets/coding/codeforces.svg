@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="250" viewBox="0 0 720 250">
+  <rect width="720" height="250" rx="18" fill="#0d1117"/>
+
+  <text x="40" y="50"
+        font-family="Arial, sans-serif"
+        font-size="26"
+        font-weight="bold"
+        fill="#ffffff">
+    Codeforces
+  </text>
+
+  <text x="40" y="78"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        fill="#8b949e">
+    @madhav63
+  </text>
+
+  <line x1="40" y1="100" x2="680" y2="100"
+        stroke="#30363d"/>
+
+  <text x="40" y="135"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#8b949e">
+    Rating
+  </text>
+
+  <text x="40" y="165"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold"
+        fill="#58a6ff">
+    391
+  </text>
+
+  <text x="190" y="135"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#8b949e">
+    Max Rating
+  </text>
+
+  <text x="190" y="165"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold"
+        fill="#58a6ff">
+    391
+  </text>
+
+  <text x="370" y="135"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#8b949e">
+    Rank
+  </text>
+
+  <text x="370" y="165"
+        font-family="Arial, sans-serif"
+        font-size="22"
+        font-weight="bold"
+        fill="#ffffff">
+    newbie
+  </text>
+
+  <text x="530" y="135"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#8b949e">
+    Solved
+  </text>
+
+  <text x="530" y="165"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold"
+        fill="#3fb950">
+    7
+  </text>
+
+  <text x="40" y="215"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        fill="#8b949e">
+    Max Rank: newbie
+  </text>
+</svg>
