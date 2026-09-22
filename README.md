@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/images/banner-light.svg">
-    <img alt="Vishal Madhav Banner" src="./assets/images/banner-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/images/banner-light.png">
+    <img alt="Vishal Madhav Banner" src="./assets/images/banner-dark.png" width="100%">
   </picture>
 
   <h1>Vishal Madhav S</h1>
