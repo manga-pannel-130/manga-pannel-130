@@ -105,9 +105,21 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <img src="./assets/coding/codeforces.svg" />
-  <img src="./assets/coding/codechef.svg" />
-  <img src="./assets/coding/leetcode.svg" />
+  <a href="https://codeforces.com/profile/madhav63">
+    <img src="./assets/coding/codeforces.svg" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/gamma_apes_15">
+    <img src="./assets/coding/codechef.svg" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Madhav63/">
+    <img src="./assets/coding/leetcode.svg" width="720" />
+  </a>
 </p>
 
 ---
@@ -120,7 +132,7 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manga-pannel-130&theme=tokyonight&hide_border=true" />
+  <img src="./assets/github/streak.svg" height="180" />
 </p>
 
 ---
