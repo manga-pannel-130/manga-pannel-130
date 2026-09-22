@@ -60,8 +60,6 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 
 <div align="center">
 
-<div align="center">
-
 <table>
 <tr>
 
@@ -75,9 +73,9 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 
 <td align="center" width="50%">
 
-### Tools & Platforms
+### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
 
 </td>
 
@@ -101,10 +99,6 @@ AI-driven skill assessment and career guidance platform that evaluates skills th
 ### 🛡️ AI SOC Analyst
 
 AI-assisted security operations project focused on alert prioritisation, investigation workflows, and automated response decision-making.
-
-### ⚙️ HAD
-
-A prototype exploring workflow optimisation across **CAD, FEA, and topology optimisation**.
 
 ### 🤖 Hiring Agent
 
@@ -185,9 +179,13 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 </table>
 
 <br>
-
+<table>
+<tr>
+<td align="center">
 <img src="./assets/github/streak.svg" height="180" />
-
+</td>
+</tr>
+</table>
 </div>
 
 ---
