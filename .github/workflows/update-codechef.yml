@@ -1,0 +1,39 @@
+name: Update CodeChef Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+
+jobs:
+  update-codechef:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update CodeChef card
+        run: python scripts/update_codechef.py
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/coding/codechef.svg
+
+          if git diff --cached --quiet; then
+            echo "No CodeChef changes."
+          else
+            git commit -m "Update CodeChef stats"
+            git push
+          fi
