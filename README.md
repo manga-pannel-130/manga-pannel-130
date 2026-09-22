@@ -60,15 +60,29 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 
 <div align="center">
 
-| Languages | AI & Backend | Frontend |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" /> | <img src="https://skillicons.dev/icons?i=fastapi,nodejs" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite" /> |
+<div align="center">
 
-<br>
+<table>
+<tr>
 
-| Databases & Tools |
-| :---: |
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" /> |
+<td align="center" width="50%">
+
+### Core Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+
+</td>
+
+<td align="center" width="50%">
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -152,11 +166,25 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+
 <img src="./assets/github/stats.svg" height="180" />
-&nbsp;
+
+</td>
+
+<td align="center">
+
 <img src="./assets/github/top-langs.svg" height="180" />
 
-<br><br>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <img src="./assets/github/streak.svg" height="180" />
 
