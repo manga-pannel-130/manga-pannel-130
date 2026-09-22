@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="720"
+    height="230"
+    viewBox="0 0 720 230">
+
+  <rect
+    width="720"
+    height="230"
+    rx="18"
+    fill="#0d1117"/>
+
+  <text
+    x="40"
+    y="48"
+    font-family="Arial, sans-serif"
+    font-size="26"
+    font-weight="bold"
+    fill="#ffffff">
+    GitHub Streak
+  </text>
+
+  <text
+    x="40"
+    y="76"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    fill="#8b949e">
+    @manga-pannel-130
+  </text>
+
+  <line
+    x1="40"
+    y1="98"
+    x2="680"
+    y2="98"
+    stroke="#30363d"/>
+
+  <text
+    x="40"
+    y="130"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Total Contributions
+  </text>
+
+  <text
+    x="40"
+    y="160"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="bold"
+    fill="#58a6ff">
+    61
+  </text>
+
+  <text
+    x="270"
+    y="130"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Current Streak
+  </text>
+
+  <text
+    x="270"
+    y="160"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="bold"
+    fill="#3fb950">
+    2 days
+  </text>
+
+  <text
+    x="500"
+    y="130"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Longest Streak
+  </text>
+
+  <text
+    x="500"
+    y="160"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="bold"
+    fill="#ffffff">
+    2 days
+  </text>
+
+  <text
+    x="40"
+    y="200"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    GitHub contribution activity
+  </text>
+
+</svg>
