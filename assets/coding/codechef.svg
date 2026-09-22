@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="720"
+    height="280"
+    viewBox="0 0 720 280">
+
+  <rect
+    width="720"
+    height="280"
+    rx="18"
+    fill="#0d1117"/>
+
+  <text
+    x="40"
+    y="48"
+    font-family="Arial, sans-serif"
+    font-size="26"
+    font-weight="bold"
+    fill="#ffffff">
+    CodeChef
+  </text>
+
+  <text
+    x="40"
+    y="75"
+    font-family="Arial, sans-serif"
+    font-size="15"
+    fill="#8b949e">
+    @gamma_apes_15
+  </text>
+
+  <line
+    x1="40"
+    y1="98"
+    x2="680"
+    y2="98"
+    stroke="#30363d"/>
+
+  <!-- Row 1 -->
+
+  <text
+    x="40"
+    y="130"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Rating
+  </text>
+
+  <text
+    x="40"
+    y="158"
+    font-family="Arial, sans-serif"
+    font-size="23"
+    font-weight="bold"
+    fill="#58a6ff">
+    1110?
+  </text>
+
+  <text
+    x="220"
+    y="130"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Highest Rating
+  </text>
+
+  <text
+    x="220"
+    y="158"
+    font-family="Arial, sans-serif"
+    font-size="23"
+    font-weight="bold"
+    fill="#58a6ff">
+    —
+  </text>
+
+  <text
+    x="450"
+    y="130"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Problems Solved
+  </text>
+
+  <text
+    x="450"
+    y="158"
+    font-family="Arial, sans-serif"
+    font-size="23"
+    font-weight="bold"
+    fill="#3fb950">
+    Learning Paths (2)
+  </text>
+
+  <!-- Row 2 -->
+
+  <text
+    x="40"
+    y="195"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Division
+  </text>
+
+  <text
+    x="40"
+    y="222"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    font-weight="bold"
+    fill="#ffffff">
+    —
+  </text>
+
+  <text
+    x="220"
+    y="195"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Global Rank
+  </text>
+
+  <text
+    x="220"
+    y="222"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    font-weight="bold"
+    fill="#ffffff">
+    Global Rank:
+  </text>
+
+  <text
+    x="450"
+    y="195"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Country Rank
+  </text>
+
+  <text
+    x="450"
+    y="222"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    font-weight="bold"
+    fill="#ffffff">
+    —
+  </text>
+
+  <text
+    x="40"
+    y="255"
+    font-family="Arial, sans-serif"
+    font-size="13"
+    fill="#8b949e">
+    Contests: Compete
+  </text>
+
+</svg>
