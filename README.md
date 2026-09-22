@@ -60,21 +60,15 @@ My interests include **Generative AI, LLM applications, RAG, embeddings, agentic
 
 <div align="center">
 
-### Languages
+| Languages | AI & Backend | Frontend |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" /> | <img src="https://skillicons.dev/icons?i=fastapi,nodejs" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite" /> |
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
+<br>
 
-### AI & Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
+| Databases & Tools |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" /> |
 
 </div>
 
@@ -114,27 +108,41 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### Codeforces
 
 <a href="https://codeforces.com/profile/madhav63">
-  <img src="./assets/coding/codeforces.svg" width="720" />
+  <img src="./assets/coding/codeforces.svg" width="300" />
 </a>
 
-<br>
+</td>
+
+<td align="center" width="33%">
 
 ### CodeChef
 
 <a href="https://www.codechef.com/users/gamma_apes_15">
-  <img src="./assets/coding/codechef.svg" width="720" />
+  <img src="./assets/coding/codechef.svg" width="300" />
 </a>
 
-<br>
+</td>
+
+<td align="center" width="33%">
 
 ### LeetCode
 
 <a href="https://leetcode.com/u/Madhav63/">
-  <img src="./assets/coding/leetcode.svg" width="720" />
+  <img src="./assets/coding/leetcode.svg" width="300" />
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -151,20 +159,6 @@ AI recruiter that evaluates candidates against job requirements using resume inf
 <br><br>
 
 <img src="./assets/github/streak.svg" height="180" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manga-pannel-130/manga-pannel-130/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manga-pannel-130/manga-pannel-130/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/manga-pannel-130/manga-pannel-130/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
 
